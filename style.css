@@ -1,0 +1,26 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-bar{
+    margin-bottom: 50px;
+}
+.orange-bg{
+    background-color: #FEEAE9;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 5em 7em;
+}
+.price{
+    color: #FF4177;
+}
+.btn{
+    background-color: #FF4177;
+    border:2px solid #FF4177;
+}
+.btn:hover{
+    color: #FF4177;
+    background-color: #FFf;
+    border:2px solid #FF4177;
+}
